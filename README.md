@@ -1,0 +1,2 @@
+# pratikum02
+Tugas
