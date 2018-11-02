@@ -38,10 +38,11 @@ if (A>B){
 	-Mendeklarasikan max sebagai nilai terbesar dan min nilai terkecil
 	-Menginputkan nilai n dimana menunjukan banyak angka yang akan di input
 	-menginputkan nilai nilai yang akan di bandingkan.
+	
+	
+```C++
 		Berikut kode lengkapnya
 
-
-```C++
 int i,n,max,min,nilai;
 
     cout<<"===Menentukan Bilangan Terbesar & Terkecil==="<< endl;
