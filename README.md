@@ -1,6 +1,8 @@
 # pratikum02
 
 *Latihan 1 
+
+
 #membuat penentuan terbesar dari 3 bilangan.
 mendeklarasikan variabel int a,b,c sebagai variabel input
 menginputkan nilai a,b,c
@@ -22,7 +24,7 @@ if (A>B){
 
 ```
 
-ini hasil screenshot nya
+#ini hasil screenshot nya
 
 ![img](https://github.com/fahmieka21/pratikum02/blob/master/hasilfahmi1.png)
 
@@ -33,6 +35,8 @@ ini hasil screenshot nya
 
 
 *Latihan2 
+
+
 #membuat penentuan terbesar dan terkecil dari 4 variabel. 
 -Mendeklarasikan variabel n,nilai sebagai variabel input 
 -Mendeklarasikan variabel i sebagai pembatas inputan/perulangan 
@@ -65,7 +69,7 @@ int i,n,max,min,nilai;
     cout<<"Nilai Terbesar Adalah:" <<max<<"\nNilai Terkecil Adalah:"<<min;
 ```
 
-ini hasil screenshot nya
+#ini hasil screenshot nya
 
 ![img](https://github.com/fahmieka21/pratikum02/blob/master/hasilfahmi4.png)
 
