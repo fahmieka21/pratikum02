@@ -32,12 +32,13 @@ if (A>B){
 ![img](https://github.com/fahmieka21/pratikum02/blob/master/hasilfahmi3.png)
 
 
-2.Latihan2 membuat penentuan terbesar dan terkecil dari 4 variabel.
+2. Latihan2 membuat penentuan terbesar dan terkecil dari 4 variabel.
 	-Mendeklarasikan variabel n,nilai sebagai variabel input
 	-Mendeklarasikan variabel i sebagai pembatas inputan/perulangan
 	-Mendeklarasikan max sebagai nilai terbesar dan min nilai terkecil
 	-Menginputkan nilai n dimana menunjukan banyak angka yang akan di input
 	-menginputkan nilai nilai yang akan di bandingkan.
+	
 		Berikut kode lengkapnya
 
 
