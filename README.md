@@ -1,11 +1,13 @@
 # pratikum02
 
-1.Latihan 1 membuat penentuan terbesar dari 3 bilangan.
+*Latihan 1 
+#membuat penentuan terbesar dari 3 bilangan.
 mendeklarasikan variabel int a,b,c sebagai variabel input
 menginputkan nilai a,b,c
 membandingkan nilai a,b,c dengan rumus if berikut kodenya
 
 
+```C++
 
 if (A>B){
         		if (A>C)
@@ -18,6 +20,8 @@ if (A>B){
        			 else
             		cout << "Bilangan Terbesar Adalah:" << C;
 
+```
+
 ini hasil screenshot nya
 
 ![img](https://github.com/fahmieka21/pratikum02/blob/master/hasilfahmi1.png)
@@ -28,7 +32,8 @@ ini hasil screenshot nya
 
 
 
-2.Latihan2 membuat penentuan terbesar dan terkecil dari 4 variabel. 
+*Latihan2 
+#membuat penentuan terbesar dan terkecil dari 4 variabel. 
 -Mendeklarasikan variabel n,nilai sebagai variabel input 
 -Mendeklarasikan variabel i sebagai pembatas inputan/perulangan 
 -Mendeklarasikan max sebagai nilai terbesar dan min nilai terkecil 
@@ -36,6 +41,7 @@ ini hasil screenshot nya
 -menginputkan nilai nilai yang akan di bandingkan. Berikut kode lengkapnya
 
 
+```C++
 int i,n,max,min,nilai;
 
     cout<<"===Menentukan Bilangan Terbesar & Terkecil==="<< endl;
@@ -57,7 +63,7 @@ int i,n,max,min,nilai;
         if (nilai<min) min=nilai;
     }
     cout<<"Nilai Terbesar Adalah:" <<max<<"\nNilai Terkecil Adalah:"<<min;
-
+```
 
 ini hasil screenshot nya
 
